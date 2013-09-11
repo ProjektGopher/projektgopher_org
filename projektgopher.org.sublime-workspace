@@ -1,0 +1,180 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"top",
+				"top-bar"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 306.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/gopher/Git/lenwoodward.com/htdocs/stylesheets/app.css",
+		"/home/gopher/Git/lenwoodward.com/htdocs/sass/app.scss",
+		"/home/gopher/Git/peninsulahomeservices.ca/Vagrantfile",
+		"/home/gopher/websitedump/projektgopher.com/www/_css/index.css",
+		"/home/gopher/websitedump/projektgopher.com/www/_css/poker.css",
+		"/home/gopher/websitedump/projektgopher.com/www/_php/config.php",
+		"/home/gopher/websitedump/projektgopher.com/www/_php/auth.php",
+		"/home/gopher/websitedump/projektgopher.com/www/_php/functions.php",
+		"/home/gopher/Git/bbbloom.ca/htdocs/stylesheets/app.css",
+		"/home/gopher/Git/bbbloom.ca/htdocs/sass/_settings.scss",
+		"/home/gopher/Git/bbbloom.ca/htdocs/MIT-LICENSE.txt",
+		"/home/gopher/Git/bbbloom.ca/htdocs/robots.txt",
+		"/home/gopher/Git/bbbloom.ca/htdocs/humans.txt",
+		"/home/gopher/Git/bbbloom.ca/htdocs/header.php",
+		"/home/gopher/Git/bbbloom.ca/htdocs/index.php",
+		"/home/gopher/PhpstormProjects/experiments/platform2/public/themes/frontend/default/views/templates/default.blade.php",
+		"/home/gopher/websitedump/tudoralehouse.com/htpasswd",
+		"/home/gopher/websitedump/tudoralehouse.com/specials.php",
+		"/home/gopher/websitedump/blackwidowblackjack.com/www/templates.html",
+		"/home/gopher/Downloads/demos-master/sentry-2/laravel-4/app/models/User.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"em*px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "projektgopher.org.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
