@@ -429,7 +429,7 @@ body {
 
 /* line 272, ../../../../../../var/lib/gems/1.9.1/gems/zurb-foundation-4.3.1/scss/foundation/components/_global.scss */
 body {
-  background: white;
+  background: #333333;
   color: #222222;
   padding: 0;
   margin: 0;
@@ -4687,7 +4687,7 @@ label.error {
   width: 100%;
   height: auto;
   display: block;
-  background: #222222;
+  background: #777777;
   font-size: 16;
   margin: 0;
 }
@@ -4709,7 +4709,7 @@ label.error {
   padding-left: 21.33333px;
   font-size: 0.8125em;
   font-weight: bold;
-  background: #222222;
+  background: #777777;
 }
 /* line 246, ../../../../../../var/lib/gems/1.9.1/gems/zurb-foundation-4.3.1/scss/foundation/components/_top-bar.scss */
 .top-bar-section ul li > a.button {
@@ -4917,7 +4917,7 @@ label.error {
   }
   /* line 411, ../../../../../../var/lib/gems/1.9.1/gems/zurb-foundation-4.3.1/scss/foundation/components/_top-bar.scss */
   .top-bar-section li a:not(.button).hover {
-    background: black;
+    background: #2a2a2a;
   }
   /* line 416, ../../../../../../var/lib/gems/1.9.1/gems/zurb-foundation-4.3.1/scss/foundation/components/_top-bar.scss */
   .top-bar-section .has-dropdown > a {
@@ -7218,44 +7218,54 @@ a.th {
 }
 
 /* line 57, ../sass/app.scss */
-html, body, #wrapper {
+html, body {
   min-height: 100%;
 }
 
 /* line 61, ../sass/app.scss */
-body {
-  background-color: #cccccc;
-  color: #333333;
-}
-
-/* line 66, ../sass/app.scss */
 header {
   text-transform: uppercase;
 }
 
-/* line 70, ../sass/app.scss */
+/* line 69, ../sass/app.scss */
 #top-band {
-  background-color: #999;
   padding: 1em;
+  background-color: #999;
   height: 3em;
-  margin-bottom: 1em;
 }
 
-/* line 77, ../sass/app.scss */
+/* line 75, ../sass/app.scss */
 #content {
+  padding: 1em 0;
+  background-color: #ccc;
   color: #333;
 }
 
 /* line 81, ../sass/app.scss */
 #link-band {
-  margin-top: 1em;
   padding: 1em;
   background-color: #888;
 }
 
-/* line 87, ../sass/app.scss */
+/* line 86, ../sass/app.scss */
 #copyright {
+  padding: 1em;
   background-color: #333;
   color: #999;
-  padding: 1em;
+}
+
+/* line 92, ../sass/app.scss */
+.codebox {
+  /* Below are styles for the codebox (not the code itself) */
+  border: 1px solid black;
+  background-color: #EEEEFF;
+  width: 300px;
+  overflow: auto;
+  padding: 10px;
+}
+
+/* line 100, ../sass/app.scss */
+.codebox code {
+  font-size: 0.9em;
+  white-space: pre-line;
 }
